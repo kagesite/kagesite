@@ -1,4 +1,4 @@
-- 🤙 Hi, I’m Kage
+- 🤙 Hi, I’m Kage 😎
 - ✨ I’m interested in Cars, Tech, & Business
 - 🧠 I’m currently learning Web Development
 - ⚡️ Fun fact: I'm Samoan 🇼🇸 
