@@ -1,6 +1,6 @@
 🤙 Hi, I’m Kage 😎<br>
 ✨ I’m interested in Cars, Tech, & Business<br>
-🧠 I’m currently learning Web Development<br>
+🧠 Currently building a Construction Tech App<br>
 
 <!---
 kagesite/kagesite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
